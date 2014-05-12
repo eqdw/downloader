@@ -1,4 +1,4 @@
+source 'https://rubygems.org'
 gem 'sinatra'
-gem 'eventmachine'
-gem 'em-http-request'
+gem 'typhoeus'
 gem 'pry'

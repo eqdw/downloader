@@ -1,4 +1,4 @@
-require 'eventmachine'
+require 'typhoeus'
 require 'pry'
 require 'sinatra'
 
